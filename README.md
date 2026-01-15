@@ -90,5 +90,5 @@ This dashboard helps business teams:
 
 ---
 
-## 🔗 Live Tableau Dashboard
-(Paste your Tableau Public link here)
+##  Live Tableau Dashboard
+https://public.tableau.com/app/profile/pradaksha.v/viz/TelecomCustomerChurnAnalysis_17683981471240/TelecomCustomerChurnRevenueAnalysis?publish=yes
